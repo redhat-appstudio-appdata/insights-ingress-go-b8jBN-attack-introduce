@@ -12,7 +12,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/hcc-pipeline-tenant/insights-ingress-go/ingress@sha256:6b62a1cca8451fe062998f8cae29f2a48c7c4b6bddf65761681d6e8279cc2485
+      - image: quay.io/redhat-user-workloads/hcc-pipeline-tenant/insights-ingress-go/ingress@sha256:c1d406fbd75ea5940db8d57cc61952ac1e90b01ecd03d3bf5ab1974d4e571d6b
         name: container-image
         resources: {}
 status: {}
