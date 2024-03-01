@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: ingress
     app.kubernetes.io/part-of: insights-ingress-go
-  name: ingresszphh
+  name: ingressyfcx
 spec:
   port:
     targetPort: 8000
